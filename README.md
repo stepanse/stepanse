@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Štěpán Šebestian</h1>
 <h3 align="center">A Czech grade school passionate about IT, school and personal projects and high school competitions</h3>
-- 🔭 I’m currently working on [NuntiumSystem, a content and production management system for school newspapers, radios and TV stations(https://nuntiumsystem.cz)
-- 🌱 I’m currently learning **React**
 
+- 🔭 I’m currently working on [NuntiumSystem](https://nuntiumsystem.cz), a content and production management system for school newspapers, radios and TV stations
+- 🌱 I’m currently learning **React**
 - 📫 Reach me at **stepanse@protonmail.com**
 - ⚡ Fun fact **I dabble in film photography. Find some of my less bad attempts [on Instagram](https://instagram.com/stepan_the_fotograf)**
 
