@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Štěpán Šebestian</h1>
-<h3 align="center">A Czech grade school passionate about IT, school and personal projects and high school competitions</h3>
+<h3 align="center">A Czech grade school student passionate about IT, school and personal projects and high school competitions</h3>
 
 - 🔭 I’m currently working on [NuntiumSystem](https://nuntiumsystem.cz), a content and production management system for school newspapers, radios and TV stations
 - 🌱 I’m currently learning **React**
