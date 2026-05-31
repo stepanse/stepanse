@@ -21,3 +21,13 @@ This summer I'll be redoing my homelab to use modern IaC tooling, working on mak
 I also want to start contributing to scientific-computing-related open source projects.
 
 \* These projects are being developed as part of my courses, they will be published after the end of the semester.
+
+### A note on AI usage
+
+While LLMs can have legitimate uses, I try to limit using them to generate code in most of my personal projects and open-source contributions to near zero.
+I find it better to learn about tools and principles by hand first, as I feel like I gain a better understanding of them.
+I can also better understand what layers of automation built on top of them (and LLMs using them) do.
+These projects also have no profit motive and no deadlines, therefore I can use them as learning tools instead of having to speed up development.
+
+Once I build this understanding, I make projects with extensive AI usage to also learn how to work with modern AI-based tools.
+All projects using AI are explicitly marked in their READMEs and descriptions/PR descriptions.
